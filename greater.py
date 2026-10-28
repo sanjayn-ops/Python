@@ -6,3 +6,7 @@ elif b>a:
     print(b)
 else:
     print("both are equal")
+
+
+c=200
+print(c)
